@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.greenify-logo {
+    font-family: "Roboto";
+    font-weight: bolder;
+}
+
+.navigation-bar-background {
+    background-color: black;
+}
+
+.green-dot {
+    padding-left: 3px;
+    color: lightgreen;
+    font-size: 30px;
+}
+
+.banner-section {
+    background-image: url('https://res.cloudinary.com/dhz2lv60k/image/upload/v1749048234/ChatGPT_Image_Jun_4_2025_07_40_41_PM_mnpwza.png');
+    height: 80vh;
+    background-size: cover;
+}
+
+#navlink-1 {
+    color: white;
+    padding-right: 20px;
+}
+
+#navlink-2 {
+    color: white;
+    padding-right: 20px;
+}
+
+#navlink-3 {
+    color: white;
+    padding-right: 20px;
+}
+
+#navlink-4 {
+    color: white;
+    padding-right: 20px;
+}
+
+.banner-section-text {
+    height: 700px;
+}
+
+.banner-section-text-heading {
+    color: white;
+    font-size: 70px;
+    font-weight: 700;
+}
+
+.custom-button {
+    background-color: white;
+    border-radius: 20px;
+    border-width: 0;
+    width: 150px;
+    height: 50px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.features-section {
+    background-color: white;
+    background-size: cover;
+}
+
+.feature-section-heading {
+    font-family: "Arial";
+    font-size: 30px;
+    color: Black;
+    font-weight: 700
+}
+
+.feature-card {
+    height: 100%;
+}
+
+.feature-card-heading {
+    color: #56a352;
+    font-size: 24px;
+}
+
+.feature-card-desc {
+    color: #335c31;
+    font-size: 18px;
+}
+
+.about-us-section {
+    background-color: #e5f5d0;
+    background-size: cover;
+}
+
+.about-us-section-desc {
+    color: #335c31;
+    font-weight: 500;
+}
+
+.who-we-are-heading {
+    color: #56a352;
+}
+
+.product-card {
+    background-color: white;
+    background-size: cover;
+    padding: 60px;
+    text-align: center;
+}
+
+.img {
+    width: 50%;
+    height: 200px;
+    margin-left: 25%;
+}
+
+.product-card-heading {
+    font-size: 25px;
+    padding-top: 30px;
+}
+
+.custom-btn {
+    width: 40%;
+    border-width: 3px;
+    font-weight: bold;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(55%) sepia(90%) saturate(400%) hue-rotate(90deg);
+    /* Greenish tone */
+}
+
+.contact-us-section {
+    background-color: #56a352;
+    color: #e5f5d0;
+    padding: 40px;
+}
+
+.contact-us-section-heading {
+    color: white;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.address-heading {
+    font-size: 20px;
+}
